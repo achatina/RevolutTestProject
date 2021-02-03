@@ -1,7 +1,7 @@
 package com.nick.revoluttestproject
 
 import com.nick.revoluttestproject.api.rates.RatesDataSource
-import com.nick.revoluttestproject.api.rates.RatesResponse
+import com.nick.revoluttestproject.api.rates.model.RatesResponse
 import com.nick.revoluttestproject.rates.FusedRatesRepository
 import com.nick.revoluttestproject.rates.RatesRepository
 import com.nick.revoluttestproject.rates.model.RatesFilter
