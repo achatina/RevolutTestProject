@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Revolut Rates</string>
+    <string name="currency_value">%.2f</string>
+    <string name="title_rates">Rates</string>
+    <string name="drawable_text">drawable</string>
+    <string name="error_title">Error</string>
+    <string name="error_message_general">Unable load data. Let\'s try again now:)</string>
+    <string name="error_retry">Retry</string>
+</resources>
